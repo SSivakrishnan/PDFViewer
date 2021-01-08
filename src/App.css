@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  
+}
+.but{
+  border-radius: 25px !important;
+  background-color:slateblue !important;
+  padding: 20px;
+  width: 200px;
+  height: 120px;
+}
+
+.butt{
+  border-radius: 15px !important;
+  background-color: #FFA500 !important;
+  width: 200px;
+  height: 70px;
+  margin-bottom: 5%;
+  margin-top: 5%;
+
+}
